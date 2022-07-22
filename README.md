@@ -1,2 +1,2 @@
-# jandj-generator-template-
-This is Jono and Johno official neto to eBay Generator Template created by Don Roland Diaz.
+# ebat-generator-template
+This is Global King Store to eBay Generator Template created by Eldorplus.
